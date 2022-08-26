@@ -1,4 +1,4 @@
-'''import random
+import random
 
 
 def guess (x):
@@ -17,6 +17,7 @@ def guess (x):
 
 guess(10)            '''
 
+#A seperate program to determine the smallest and largest numvber while catching errors where necessary
 largest = None
 smallest = None
 while True:
